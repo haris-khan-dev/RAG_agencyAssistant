@@ -1,20 +1,38 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# RAG_agencyAssistant
 
-# Run and deploy your AI Studio app
+An intelligent assistant designed to enhance agency operations by leveraging Retrieval-Augmented Generation (RAG) techniques. Built using LangChain and deployed on Gemini AI Studio, this assistant integrates advanced AI capabilities to provide insightful and context-aware responses.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
+## 🚀 Features
 
-## Run Locally
+- **Contextual Responses**: Utilizes RAG to fetch relevant information and generate accurate answers.
+- **Agent-Based Workflow**: Employs intelligent agents to manage multi-step reasoning and decision-making.
+- **Customizable Agents**: Easily extendable to create specialized agents for various tasks.
+- **Seamless Integration**: Designed to integrate smoothly with existing agency systems and workflows.
 
-**Prerequisites:**  Node.js
+---
 
+## 🛠️ Technologies Used
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- **LangChain**: A framework for developing applications powered by language models.
+- **Gemini AI Studio**: A platform for building and deploying AI applications.
+- **Node.js**: JavaScript runtime used for backend services.
+- **TypeScript**: Superset of JavaScript providing static typing.
+- **Vite**: Next-generation, front-end tool for fast development.
+
+---
+
+## 📦 Installation
+
+### Prerequisites
+
+- Node.js
+
+### Steps
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/haris-khan-dev/RAG_agencyAssistant.git
+   cd RAG_agencyAssistant
