@@ -1,0 +1,5 @@
+
+{
+  "name": "RAG Design Agency Assistant",
+  "description": "An intelligent assistant that answers employee queries based on provided information about your design agency. This application simulates a RAG (Retrieval-Augmented Generation) system using the Gemini API to provide accurate, context-aware answers."
+}
